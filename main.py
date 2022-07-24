@@ -44,4 +44,4 @@ auth = input('Mabok Duit Bussid? : ')
 headers['X-Authorization'] = auth	
 while True:
 	pass_mission()
-	time.sleep(1)
+	time.sleep(3.5)
