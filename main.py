@@ -44,4 +44,4 @@ auth = input('auth? : ')
 headers['X-Authorization'] = auth	
 while True:
 	pass_mission()
-	time.sleep(2.5)
+	time.sleep(0)
